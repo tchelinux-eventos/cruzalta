@@ -4,12 +4,6 @@
 
 O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Universidade de Cruz Alta**](https://home.unicruz.edu.br/), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **21 de Março** no Salão Nobre da UNICRUZ (Rodovia Municipal Jacob Della Mea, s/n km 5,6 - Parada Benito, Cruz Alta).
 
-## Chamada de Trabalhos
-
-A **Chamada de Trabalhos está aberta** e o prazo para submissão de propostas de palestra é **28 de Fevereiro de 2020**. Os trabalhos escolhidos serão anúnciados no dia **29 de Fevereiro de 2020**.
-
-<center><a href="https://cruzalta.tchelinux.org/cfp/" style="color:#ff4040"><b><h3>Clique aqui e submeta sua palestra!<h3></b></a></center>
-
 ## Inscrições
 
 As inscrições já se encontram abertas e podem ser feitas através do link abaixo: 

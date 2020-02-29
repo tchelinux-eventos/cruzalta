@@ -1,5 +1,4 @@
 [Sobre](#Sobre)
-[Chamada de Trabalhos](#Chamada_de_Trabalhos)
 [Inscrições](#Inscrições)
 [Certificados](#Certificados)
 [Local](#Local)
